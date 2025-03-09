@@ -2,12 +2,12 @@ import {initializeApp} from "firebase/app"
 import { getFirestore } from 'firebase/firestore';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyApN96jGEefOBrSVSfjWV7poBFZI7QO7po",
-    authDomain: "sample-project-7cbbb.firebaseapp.com",
-    projectId: "sample-project-7cbbb",
-    storageBucket: "sample-project-7cbbb.firebasestorage.app",
-    messagingSenderId: "944837490391",
-    appId: "1:944837490391:web:e628962a4cef60cd68a292"
+    apiKey: "AIzaSyDKOW-kAoFjtHVC978Vpyiwrc0XQQAvnMA",
+    authDomain: "test-project-ed184.firebaseapp.com",
+    projectId: "test-project-ed184",
+    storageBucket: "test-project-ed184.firebasestorage.app",
+    messagingSenderId: "876677035894",
+    appId: "1:876677035894:web:9ed177a830a5c2621a6c57"
 };
 
 export const app=initializeApp(firebaseConfig);
